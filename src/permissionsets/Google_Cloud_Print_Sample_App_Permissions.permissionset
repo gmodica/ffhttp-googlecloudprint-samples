@@ -147,11 +147,6 @@
         <field>Account.Website</field>
         <readable>false</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>Account.YearStarted</field>
-        <readable>false</readable>
-    </fieldPermissions>
     <label>Google Cloud Print Sample App Permissions</label>
     <pageAccesses>
         <apexPage>GoogleCloudPrintPrintAttachments</apexPage>
